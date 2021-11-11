@@ -1,0 +1,9 @@
+{
+	"dependencies": {},
+	"description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input.",
+	"git": "https://github.com/voltengine/glfw.git",
+	"id": "voltengine/glfw",
+	"keywords": [],
+	"license": "Zlib",
+	"version": "3.3.5"
+}
